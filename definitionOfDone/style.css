@@ -1,0 +1,20 @@
+.profileImage {
+    width: 380px;
+    height: 400px;
+}
+
+.citySection, .foreignLanguage, .historicPlaces {
+    border-style: solid;
+    border-color: red;
+    height: 600px;
+}
+
+.introductionTab {
+    border-style: solid;
+    border-color: green;
+}
+
+.imageTab {
+    border-style: solid;
+    border-color:blue;
+}
